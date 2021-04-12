@@ -1,0 +1,3 @@
+## Epicodus C# and .NET / Test-Driven Development with C#
+## Setting up MSTest from Scratch 
+#### This project is meant to pratice setting up a C# testing environment from scratch, please follow along this lesson to set your environment. [MSTest Configuration and Setup](https://www.learnhowtoprogram.com/c-and-net-part-time-c-and-react-track/test-driven-development-with-c/mstest-configuration-and-setup)
